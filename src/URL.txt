@@ -1,0 +1,18 @@
+Index
+https://lshjju.tistory.com/110
+
+Live
+https://codesandbox.io/p/sandbox/wgvshv?file=%2Fsrc%2FApp.js
+
+
+Project
+https://stackblitz.com/edit/vitejs-vite-w8s3td76?file=src%2FApp.jsx
+
+Final Build
+https://stackblitz.com/edit/vitejs-vite-9fbg1z36?file=src%2Fmain.jsx
+
+NEW Project Guide
+https://lshjju.tistory.com/104
+
+
+https://stackblitz.com/edit/vitejs-vite-8no5dsbd?file=index.html&terminal=dev
