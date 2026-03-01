@@ -13,6 +13,3 @@ https://stackblitz.com/edit/vitejs-vite-9fbg1z36?file=src%2Fmain.jsx
 
 NEW Project Guide
 https://lshjju.tistory.com/104
-
-
-https://stackblitz.com/edit/vitejs-vite-8no5dsbd?file=index.html&terminal=dev
